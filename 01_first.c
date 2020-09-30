@@ -10,5 +10,8 @@ int main(){
     int error_code;
     // 'J' --> a character
     printf("Hello I am learning C with Harry");
+    
+    
+    printf("Hello how r u ?");
     return 0;
 }
